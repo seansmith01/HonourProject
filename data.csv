@@ -1,0 +1,243 @@
+
+
+New Game
+
+Player IDScore
+Player:0,2
+Player:1,7
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,4
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,4
+Player IDTimes World Wrapped
+Player:0,8
+Player:1,9
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+0,0,False,Front,21.03515
+2,0,False,Front,25.80041
+3,1,False,Front,14.55439
+4,1,True,Front,22.02915
+5,1,False,Front,14.91452
+6,1,True,Front,27.76972
+7,1,False,Front,16.0381
+8,1,False,Front,18.20441
+9,1,True,Front,13.92252
+
+New Game
+
+Player IDScore
+Player:0,0
+Player:1,2
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,3
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,0
+Player IDTimes World Wrapped
+Player:0,1
+Player:1,2
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+0,1,False,Front,3.368407
+2,1,False,Front,3.323459
+
+New Game
+
+Player IDScore
+Player:0,0
+Player:1,0
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,0
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,0
+Player IDTimes World Wrapped
+Player:0,2
+Player:1,14
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+
+New Game
+
+Player IDScore
+Player:0,2
+Player:1,2
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,2
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,0
+Player IDTimes World Wrapped
+Player:0,5
+Player:1,3
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+0,1,False,Front,7.175852
+2,1,False,Front,7.242247
+3,0,False,Front,6.969022
+4,0,False,Front,6.969022
+
+New Game
+
+Player IDScore
+Player:0,3
+Player:1,9
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,5
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,6
+Player IDTimes World Wrapped
+Player:0,4
+Player:1,8
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+0,0,False,Behind,21.09514
+2,0,False,Behind,13.09323
+3,0,False,Behind,11.00937
+4,1,False,Front,12.29957
+5,1,True,Front,18.35142
+6,1,False,Behind,2.722781
+7,1,False,Behind,8.107435
+8,1,False,Behind,6.660254
+9,1,False,Behind,6.660254
+10,1,False,Behind,7.394982
+11,1,False,Behind,5.633019
+12,1,True,Behind,17.35085
+
+New Game
+
+Player IDScore
+Player:0,0
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player IDTimes World Wrapped
+Player:0,0
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+
+New Game
+
+Player IDScore
+Player:0,2
+Player:1,2
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,1
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,1
+Player IDTimes World Wrapped
+Player:0,2
+Player:1,4
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+0,1,False,Front,9.206214
+2,0,False,Behind,15.81891
+3,1,False,Behind,24.66708
+4,0,True,Behind,26.55557
+
+New Game
+
+Player IDScore
+Player:0,7
+Player:1,3
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,4
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,0
+Player IDTimes World Wrapped
+Player:0,0
+Player:1,4
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+0,1,False,Behind,5.685786
+2,1,False,Front,3.351015
+3,1,False,Front,19.91381
+4,0,False,Behind,3.572272
+5,0,False,Behind,18.96307
+6,0,True,Behind,56.42843
+7,0,False,Front,25.83405
+8,0,True,Behind,29.05056
+9,0,True,Behind,53.23575
+10,0,False,Front,9.075379
+
+New Game
+
+Player IDScore
+Player:0,0
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player IDTimes World Wrapped
+Player:0,5
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+
+New Game
+
+Player IDScore
+Player:0,0
+Player:1,1
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,0
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,1
+Player IDTimes World Wrapped
+Player:0,13
+Player:1,0
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+0,1,True,Front,6.430292
+
+New Game
+
+Player IDScore
+Player:0,0
+Player:1,0
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,0
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,0
+Player IDTimes World Wrapped
+Player:0,1
+Player:1,1
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+
+New Game
+
+Player IDScore
+Player:0,0
+Player:1,0
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,0
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,0
+Player IDTimes World Wrapped
+Player:0,0
+Player:1,0
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
+
+New Game
+
+Player IDScore
+Player:0,0
+Player:1,0
+Player IDShots Hit On Client But Not On Server
+Player:0,0
+Player:1,0
+Player IDShots Hit On Server But Not On Client
+Player:0,0
+Player:1,0
+Player IDTimes World Wrapped
+Player:0,1
+Player:1,0
+Ignore,Player ID,ShotWorldWrapped,ShotWasFromBehind, ShootDistance
